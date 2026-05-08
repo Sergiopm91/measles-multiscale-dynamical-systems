@@ -17,7 +17,7 @@ keywords:
   - immuno-epidemiology
   - Sobol sensitivity analysis
 license: MIT
-repository-code: "https://github.com/USERNAME/measles-multiscale-dynamical-systems"
+repository-code: "https://github.com/Sergiopm91/measles-multiscale-dynamical-systems"
 version: "1.0.0"
 date-released: "2026-05-08"
 preferred-citation:
@@ -28,6 +28,6 @@ preferred-citation:
       given-names: "Sergio"
     - family-names: "Chimal Eguía"
       given-names: "Juan Carlos"
-  journal: "AIMS Mathematics"
+  
   year: 2026
-  status: "submitted"
+  
