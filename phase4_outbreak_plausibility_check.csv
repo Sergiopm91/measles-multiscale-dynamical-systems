@@ -1,0 +1,4 @@
+Outbreak,Use_in_paper,Required_citation_placeholder,Model_comparison,Claim_allowed
+Samoa 2019,high-susceptibility severe outbreak plausibility,[Samoa 2019 official/WHO source],Use 0-60% coverage regimes; compare large attack-rate potential only,"plausibility check, not calibration"
+Madagascar 2018-2019,large outbreak in low-coverage context,[Madagascar 2018-2019 WHO/CDC source],Use low/intermediate coverage regimes; qualitative size only,"plausibility check, not calibration"
+Disneyland 2014-2015,localized outbreak despite high national coverage,[Disneyland 2014-2015 CDC/MMWR source],Use clustered susceptibility/high average coverage; qualitative persistence only,"plausibility check, not calibration"

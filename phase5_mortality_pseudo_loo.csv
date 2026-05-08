@@ -1,0 +1,7 @@
+Held_out_archetype,Z_score,Benchmark_CFR,z0_fit_without_held_out,Predicted_M,Absolute_difference,Relative_error,Diagnostic_scope
+Healthy adult,-0.958076263999681,0.002,5.23614388636395,0.000916666387443857,-0.00108333361255614,-0.541666806278072,pseudo leave-one-out; refits z0 only; not external validation
+Child,1.45195425244569,0.01,4.45356978785536,0.021308823910585,0.011308823910585,1.1308823910585,pseudo leave-one-out; refits z0 only; not external validation
+Elderly,2.34141590107613,0.015,4.45356978785536,0.048564507573348,0.033564507573348,2.2376338382232,pseudo leave-one-out; refits z0 only; not external validation
+Immunocomp.,5.06100449862972,0.3,5.23614388636395,0.20534702916632,-0.0946529708336802,-0.315509902778934,pseudo leave-one-out; refits z0 only; not external validation
+Partial vacc,-0.14089727729845,0.0005,4.45356978785536,0.00450290908750031,0.00400290908750031,8.00581817500061,pseudo leave-one-out; refits z0 only; not external validation
+Full vacc,-7.11946789152456,0.0001,5.23614388636395,1e-05,-9e-05,-0.9,pseudo leave-one-out; refits z0 only; not external validation

@@ -1,0 +1,13 @@
+Key,Value
+mode,"paper"
+N_main,"150"
+N_finite,"300"
+nruns_main,"100"
+nruns_finite,"30"
+base_seed,"42000"
+seed_policy,"base_seed + scenario_id*100000 + run_index"
+attack_rate_denominator,"total population N^2"
+balance_equation,"S+E+Ipre+Irash+R+D+Vac=N^2"
+viremia_threshold_role,"descriptor only; not CA latent period"
+infectious_window,"T_rash-4 to T_rash+4, with conservative IC prolongation"
+therapy_trigger,"M_emergent > 0.0050"

@@ -1,0 +1,9 @@
+Coverage_percent,AR_surrogate,Phase4_AR_mean,Phase4_AR_sd,Surrogate_minus_Phase4,Interpretation
+0,0.61742119744721,0.923089777777778,0.0679139193806513,-0.305668580330568,surrogate readback only; full CA results remain authoritative
+60,0.176567614871529,0.286605777777778,0.0653140173634087,-0.110038162906249,surrogate readback only; full CA results remain authoritative
+70,0.0817367982343187,0.135835111111111,0.0397228695361383,-0.0540983128767923,surrogate readback only; full CA results remain authoritative
+80,0,0.0503115555555556,0.0262504392647289,-0.0503115555555556,surrogate readback only; full CA results remain authoritative
+85,3.34446316303005e-17,0.0257386666666667,0.0160378928769076,-0.0257386666666667,surrogate readback only; full CA results remain authoritative
+90,0,0.0114626666666667,0.00847522794762389,-0.0114626666666667,surrogate readback only; full CA results remain authoritative
+92,1.78876537816535e-17,0.00718222222222222,0.00587562489877597,-0.0071822222222222,surrogate readback only; full CA results remain authoritative
+95,6.94335970646475e-18,0.00484755555555555,0.00476522404714393,-0.00484755555555554,surrogate readback only; full CA results remain authoritative

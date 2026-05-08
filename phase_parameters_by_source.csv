@@ -1,0 +1,54 @@
+Parameter,Paper_classification,Baseline_source_type,Source_or_role,Healthy_adult_value,Child_value,Elderly_value,Immunocompromised_value,Partial_vaccine_value,Fully_vaccinated_value
+beta,inherited_morris,inherited_morris,Inherited from Morris et al. core or required core initial condition.,0.04,0.04,0.04,0.04,0.04,0.04
+k,exploratory_archetype_modifier,inherited_morris,Inherited from Morris et al. core or required core initial condition.,0.017,0.011,0.013,0.003,0.02,0.055
+p,inherited_morris,inherited_morris,Inherited from Morris et al. core or required core initial condition.,0.089,0.089,0.089,0.089,0.089,0.089
+q,exploratory_archetype_modifier,inherited_morris,Inherited from Morris et al. core or required core initial condition.,0.99,0.68,0.75,0.2,0.99,0.95
+qs,inherited_morris,inherited_morris,Inherited from Morris et al. core or required core initial condition.,0.028,0.028,0.028,0.028,0.028,0.028
+r,inherited_morris,inherited_morris,Inherited from Morris et al. core or required core initial condition.,0.058,0.058,0.058,0.058,0.058,0.058
+s,inherited_morris,inherited_morris,Inherited from Morris et al. core or required core initial condition.,0.0104,0.0104,0.0104,0.0104,0.0104,0.0104
+c,inherited_morris,inherited_morris,Inherited from Morris et al. core or required core initial condition.,3,3,3,3,3,3
+d,inherited_morris,inherited_morris,Inherited from Morris et al. core or required core initial condition.,0.025,0.025,0.025,0.025,0.025,0.025
+delta,exploratory_archetype_modifier,inherited_morris,Inherited from Morris et al. core or required core initial condition.,0.5,0.45,0.45,0.3,0.5,0.5
+td,exploratory_archetype_modifier,inherited_morris,Inherited from Morris et al. core or required core initial condition.,4.2,4.8,4.8,4.2,3.7,2.2
+mu_R,calibrated,calibrated,Calibrated or literature-anchored extension parameter.,0.013862944,0.013862944,0.013862944,0.013862944,0.013862944,0.013862944
+rho_R,exploratory_archetype_modifier,calibrated,Calibrated or literature-anchored extension parameter.,0.08,0.08,0.08,0.08,0.08,0.005
+eta_R,exploratory_archetype_modifier,phenomenological,Phenomenological proxy or extension parameter.,0.002,0.002,0.002,0.002,0.002,0.05
+t_Ab,phenomenological,phenomenological,Phenomenological proxy or extension parameter.,10,10,10,10,10,10
+rho_Ab,exploratory_archetype_modifier,calibrated,Calibrated or literature-anchored extension parameter.,0.015,0.008,0.008,0.005,0.025,0.08
+mu_Ab,exploratory_archetype_modifier,calibrated,Calibrated or literature-anchored extension parameter.,0.0083333333,0.0083333333,0.0125,0.0083333333,0.0083333333,0.0083333333
+theta_Ab,exploratory_archetype_modifier,calibrated,Calibrated or literature-anchored extension parameter.,0.001,0.001,0.001,0.001,0.001,0.03
+t17,exploratory_archetype_modifier,calibrated,Calibrated or literature-anchored extension parameter.,35,35,35,35,35,10
+alpha_t,exploratory_archetype_modifier,phenomenological,Phenomenological proxy or extension parameter.,0.15,0.15,0.15,0.15,0.15,0.1
+alpha_R,exploratory_archetype_modifier,phenomenological,Phenomenological proxy or extension parameter.,0.6,0.6,0.6,0.6,0.6,0.03
+kappa17,calibrated,calibrated,Calibrated or literature-anchored extension parameter.,0.02,0.02,0.02,0.02,0.02,0.02
+hR,phenomenological,phenomenological,Phenomenological proxy or extension parameter.,50,50,50,50,50,50
+Ab_stim_type,phenomenological,phenomenological,Phenomenological proxy or extension parameter.,log,log,log,log,log,log
+K_R,phenomenological,phenomenological,Phenomenological proxy or extension parameter.,100,100,100,100,100,100
+n_R,phenomenological,phenomenological,Phenomenological proxy or extension parameter.,2,2,2,2,2,2
+DC_active,in_silico_intervention_parameter,in_silico_intervention_parameter,In silico intervention parameter.,0,0,0,0,0,0
+DC_mode,in_silico_intervention_parameter,in_silico_intervention_parameter,In silico intervention parameter.,multiplicative,multiplicative,multiplicative,multiplicative,multiplicative,multiplicative
+eta_D,in_silico_intervention_parameter,in_silico_intervention_parameter,In silico intervention parameter.,0,0,0,0,0,0
+eta_AbD,in_silico_intervention_parameter,in_silico_intervention_parameter,In silico intervention parameter.,0,0,0,0,0,0
+DC_doses,in_silico_intervention_parameter,in_silico_intervention_parameter,In silico intervention parameter.,0,0,0,0,0,0
+DC_start,in_silico_intervention_parameter,in_silico_intervention_parameter,In silico intervention parameter.,0,0,0,0,0,0
+DC_interval,in_silico_intervention_parameter,in_silico_intervention_parameter,In silico intervention parameter.,0,0,0,0,0,0
+DC_d0,in_silico_intervention_parameter,in_silico_intervention_parameter,In silico intervention parameter.,0,0,0,0,0,0
+DC_ef,in_silico_intervention_parameter,in_silico_intervention_parameter,In silico intervention parameter.,0,0,0,0,0,0
+DC_muD,in_silico_intervention_parameter,in_silico_intervention_parameter,In silico intervention parameter.,0,0,0,0,0,0
+DC_add_q,in_silico_intervention_parameter,in_silico_intervention_parameter,In silico intervention parameter.,0,0,0,0,0,0
+DC_add_rhoAb,in_silico_intervention_parameter,in_silico_intervention_parameter,In silico intervention parameter.,0,0,0,0,0,0
+DC_add_Ag,in_silico_intervention_parameter,in_silico_intervention_parameter,In silico intervention parameter.,0,0,0,0,0,0
+CTL_active,in_silico_intervention_parameter,in_silico_intervention_parameter,In silico intervention parameter.,0,0,0,0,0,0
+CTL_delta,in_silico_intervention_parameter,in_silico_intervention_parameter,In silico intervention parameter.,0,0,0,0,0,0
+CTL_time,in_silico_intervention_parameter,in_silico_intervention_parameter,In silico intervention parameter.,0,0,0,0,0,0
+CTL_tau,in_silico_intervention_parameter,in_silico_intervention_parameter,In silico intervention parameter.,1,1,1,1,1,1
+S0,exploratory_archetype_modifier,inherited_morris,Inherited from Morris et al. core or required core initial condition.,3800,3000,3800,3000,3800,3800
+I0,inherited_morris,inherited_morris,Inherited from Morris et al. core or required core initial condition.,0,0,0,0,0,0
+V0,exploratory_archetype_modifier,inherited_morris,Inherited from Morris et al. core or required core initial condition.,0.0001,0.0001,0.0001,0.0001,1e-07,1e-08
+A0,exploratory_archetype_modifier,inherited_morris,Inherited from Morris et al. core or required core initial condition.,1,1,1,1,2.5,3
+Ag0,exploratory_archetype_modifier,phenomenological,Phenomenological proxy or extension parameter.,1,1,1,1,1,3
+A17_0,phenomenological,phenomenological,Phenomenological proxy or extension parameter.,0,0,0,0,0,0
+R0,phenomenological,phenomenological,Phenomenological proxy or extension parameter.,0,0,0,0,0,0
+Ab0,exploratory_archetype_modifier,phenomenological,Phenomenological proxy or extension parameter.,0,0,0,0,3,30
+tmax_days,exploratory_archetype_modifier,not_parameter_or_metadata,internal/model-control field,120,120,120,180,120,120
+archetype,exploratory_archetype_modifier,not_parameter_or_metadata,internal/model-control field,1,2,3,4,5,6
